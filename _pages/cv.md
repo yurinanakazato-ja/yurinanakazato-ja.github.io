@@ -9,51 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## 学歴
+2023年4月- 現在     : 東京大学大学院 理学系研究科物理学専攻 博士後期課程  
+2021年4月- 2023年3月: 東京大学大学院　理学系研究科物理学専攻 修士課程  
+              修士論文: 宇宙最初期における星団形成と輝線銀河進化 ([pdf](http://www-utap.phys.s.u-tokyo.ac.jp/Theses/M_Nakazato.pdf))  
+              指導教員: 吉田直紀 教授  
+2017年4月- 2021年3月 : 東京大学 理科一類 → 理学部 物理学科  
+2014年4月- 2017年3月 : 沖縄県 私立昭和薬科大学附属高校
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## 職歴  
+2021年4月- 2021年8月 : 理学部物理学科 学部3,4年生 「流体力学」TA  
+2020年4月- 現在      : [多言語交流会 International Lounge](https://www.jlcse.t.u-tokyo.ac.jp/ja/activities/icyou/) ランゲージアシスタント (LA) 
+2018年10月- 2021年3月: [東大ネットアカデミー](https://tna-tokyo.com) 講師  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## 受賞歴  
+2023年4月- 2026年3月 : JSR フェローシップ CURIE生　([link](https://curie.phys.s.u-tokyo.ac.jp/fellowship/))
+2023年4月- 2026年3月 : 日本学術振興会特別研究員 DC1  
+研究課題名: 他波長輝線観測と数値シミュレーションで解き明かす宇宙最初期の銀河進化 (領域番号:23KJ0728, [link](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23KJ0728/))  
+研究奨励金 月額20万円, 特別研究員奨励費(特別枠): 140万円/年
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
