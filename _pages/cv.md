@@ -26,7 +26,7 @@ redirect_from:
 * 2023年4月- 2026年3月 : JSR フェローシップ CURIE生　([link](https://curie.phys.s.u-tokyo.ac.jp/fellowship/))  
 * 2023年4月- 2026年3月 : 日本学術振興会特別研究員 DC1  
 研究課題名: 他波長輝線観測と数値シミュレーションで解き明かす宇宙最初期の銀河進化 (領域番号:23KJ0728, [link](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23KJ0728/))  
-* 研究奨励金 月額20万円, 特別研究員奨励費(特別枠): 140万円/年
+研究奨励金 月額20万円, 特別研究員奨励費(特別枠): 140万円/年
 * 2023年3月           : 東大総長賞 受賞  ([link](https://www.u-tokyo.ac.jp/content/400209147.pdf))  
 * 2023年3月           : 東京大学大学院 理学系研究科研究奨励賞 受賞  ([link](https://www.phys.s.u-tokyo.ac.jp/award/37776/))  
 * 2023年3月           : 卓越大学院 (IGPEES) Qualifying Examination 優秀賞受賞 ([link](https://www.s.u-tokyo.ac.jp/ja/IGPEES/news/2023-01.html))  
