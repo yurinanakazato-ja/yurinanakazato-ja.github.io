@@ -5,18 +5,15 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
+  
+ # - title: "Leadership and others"
+  #  url: /leadership/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "zemi"
+    url: /zemi/    
+ 
+  #- title: "Personal"
+  #  url: /personal/    
