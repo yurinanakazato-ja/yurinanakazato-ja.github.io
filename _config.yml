@@ -12,9 +12,9 @@ title                    : "仲里佑利奈 (なかざと ゆりな)"
 title_separator          : "-"
 name                     : &name "仲里佑利奈"
 description              : &description "personal description"
-url                      : https://yurinanakazato.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/yurinanakazato_ja" # the subpath of your site, e.g. "/blog"
-repository               : "yurinanakazato/yurinanakazato-ja.github.io"
+url                      : https://yurinanakazato-ja.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "yurinanakazato-ja/yurinanakazato-ja.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
