@@ -8,9 +8,9 @@
 # Site Settings
 #locale                   : "en-US"
 locale                   : "ja"
-title                    : "Yurina Nakazato"
+title                    : "仲里佑利奈"
 title_separator          : "-"
-name                     : &name "Yurina Nakazato"
+name                     : &name "仲里佑利奈(なかざと ゆりな)"
 description              : &description "personal description"
 url                      : https://yurinanakazato-ja.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
