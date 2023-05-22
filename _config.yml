@@ -51,7 +51,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : #google269415e63b1175f7.html
+google_site_verification : # google269415e63b1175f7.html
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -76,7 +76,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : #"G-1SMD5KWWK7"
+    tracking_id          : # "G-1SMD5KWWK7"
 
 
 # Site Author
@@ -97,11 +97,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : 
   linkedin         : "www.linkedin.com/in/佑利奈-仲里-a2442b1b2"
   orcid            : "http://orcid.org/0000-0002-0984-7713"
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
