@@ -5,41 +5,38 @@ author_profile: true
 ---
 
 ## Leadership & Outreach
-- 2022.7: __[Women in STEM (東大理学部で考える女子中高生の未来)](https://www.s.u-tokyo.ac.jp/ja/event/7938/)__  
-Joined as a presenter to introduce reserach topic and daily research life. Empowered female high school students to major in Astrophysics and pursue careers in STEM.
+- 2022.7: __[東大理学部で考える女子中高生の未来](https://www.s.u-tokyo.ac.jp/ja/event/7938/)__  
+物理学専攻TAとして参加。  
 
 - 2019.12 : __[Rikejo Initiative](https://www.u-tokyo.ac.jp/kyodo-sankaku/ja/news/news2019_00019.html)__  
-Funded by Johnson & Johnson. Joined a workshop for improving presentaion skills and global female leadership.
+Johnson & Johnson 主催の理系学部を専攻する女子学生を対象としたワークショップに参加。  
 
 - 2019.10: __Research Presentation at Dow Chemical Company__  
-Joined as a panelist to present a research project at [Dow Chemial Japan](https://jp.dow.com/ja-jp), who sponsor [TOMODACHI STEM program](https://tomodachistem.rice.edu).
-
+[TOMODACHI STEM Program](https://tomodachistem.rice.edu) の参加者代表として、[ダウケミカルジャパン](https://jp.dow.com/ja-jp)にてライス大学(テキサス州)での研究成果を発表。  
 
 ## Research and International experience
-* 2020.6-2021.3: __[Study and Visit Abroad Program](https://www.s.u-tokyo.ac.jp/ja/offices/ilo/svap/application.html)__
-    * Funded by the faculty of science, the University of Tokyo
-    * Online reserach internship at [Naoz lab](https://www.astro.ucla.edu/~snaoz/), UCLA.
-
-* 2019.12-2020.1: __Online Language Excange Program - Utokyo & TUM-__
+* 2020.6-2021.3: __[理学部学生国際派遣プログラム Study and Visit Abroad Program](https://www.s.u-tokyo.ac.jp/ja/offices/ilo/svap/application.html)__  
+    * コロナウイルスの影響の為、オンラインでカリフォルニア大学ロサンゼルス校の [Naoz 研](https://www.astro.ucla.edu/~snaoz/)にて共同研究を行った。  
+ 
+* 2019.12-2020.1: __Online Language Excange Program - Utokyo & TUM-__  
     * Participated in an online international exchange program with students from Technical University of Munich
 
-* 2019.6-9: __[UTokyo Global Internship Program](https://www.u-tokyo.ac.jp/ja/students/special-activities/ugip.html)__
-    * Funded by DAIKIN, a company leading air conditioning and refrigeration. 
-    * Two-month workplace training at [DAIKIN Japan](https://www.daikin.com/corporate/why_daikin/japanbrand) and two-week research internship at [DAIKIN Europe](https://www.daikin.eu/en_us/customers.html) in Belgium. Business proposal for food loss and integrated solution of air conditioning and refrigeration. 
+* 2019.6-9: __[UTokyo Global Internship Program](https://www.u-tokyo.ac.jp/ja/students/special-activities/ugip.html)__  
+    * 東京大学グローバル・インターンシップ 第一期生採択。  
+    * DAIKIN のヨーロッパ支部 (ベルギー)にて企業インターン。  
 
-* 2019.8: __[Summer School of Particle Physics and Nuclear Physics](https://www2.kek.jp/ksc/13th_2019/index.html)__
-    * Funded by the High Energy Accelerator Research Organization.
-    * Experiment of measuring muon decay time and observing Lamor Precession and Single-Spin Asymmetries. Made the final presentation and poster session.
+* 2019.8: __[第13回 大学生・高専生の為の素粒子・原子核スクール サマーチャレンジ](https://www2.kek.jp/ksc/13th_2019/index.html)__
+    * 高エネルギー加速器研究機構 (KEK)にてサマースクールに参加。  
+    * 木野量子，後藤祐己，仲里佑利奈，中村瞭弥，松井理輝，森口椋太 「宇宙線観察で学ぶ粒子の崩壊とスピン回転」 
 
-* 2019.8: __[Nanotechnology Platform Student Training Program](https://www.nanonet.go.jp/pages/gakusei/2019/)__
-    * Funded by National Institute for Materials Science.
-    * Five-day research program at Spring-8, the world’s largest third-generation synchrotron radiation facility. Conducted X-ray photoelectron spectroscopy (XPS) experiments and data analysis. Made a presentation at the University of Tokyo in September.
+* 2019.8: __[ナノテクノロジープラットフォーム学生研修](https://www.nanonet.go.jp/pages/gakusei/2019/)__  
+    * 文部科学省主催の物性サマースクールに参加。  
+    * 仲里佑利奈，𠮷越章隆「超高真空固体表面のX線光電子分光分析」ナノテクノロジープラットフォーム学生研修，ポスター発表および口頭発表，東京大学, 2019年 9月  
 
 * 2019.2-3: __[Undergraduate Research Assistant, TOMODACHI STEM Program](https://tomodachistem.rice.edu)__
-    * Funded by U.S.-Japan Council.
-    * Five-week science & engineering research internship at [Gerts lab](http://fis-archive.rice.edu/facultyaaab.html), Rice University, Houston. Researched and analyzed the heavy iron collision data of STAR experiment conducted at BNL. 
-    * Final week study tour to Washington, DC including site visits to the Society for the Promotion of Science, JAXA, U.S.-Japan Council, and Women in STEM Workshop at Leihigh University.
- 
-* 2014.7-8: __[Okinawa Global Leaders Program](http://eil.sakura.ne.jp/opsac/short.html)__
-    * Funded by Okinawa Prefectural Board of Education
-    * Three-week program to introduce students to key concepts in intercultural communication and global leadership
+    * 日米カウンシル主催の、日本の大学で理系学部を専攻する女子学生 10 名を対象とした5週間の研究インターンシッププラグラム。  
+    * ライス大学のGeurts研にて5週間の研究インターンシップ。   
+    * Nakazato Y. and Geurts F. “Identifying the Particles Produced by Au+Au Collisions” TOMODACHI STEM Capstone Poster Symposium, Rice University, Mar. 2019  
+
+* 2014.7-8: __[グローバル・リーダー育成海外短期研修事業](https://www.pref.okinawa.jp/site/bunka-sports/bunka/kikaku/documents/16.pdf)__
+    * 沖縄県教育委員会主催の、ヒューストン大学への派遣プログラム。 
