@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+pdf版は[ここ](https://yurinanakazato-ja.github.io/files/CV_eng.pdf)
+
+
 ## 学歴
 * 2023年4月- 現在     : 東京大学大学院 理学系研究科物理学専攻 博士後期課程  
 * 2021年4月- 2023年3月: 東京大学大学院　理学系研究科物理学専攻 修士課程  
