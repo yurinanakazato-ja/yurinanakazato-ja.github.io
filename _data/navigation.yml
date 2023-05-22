@@ -1,17 +1,17 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-    
-  - title: "CV"
-    url: /cv/
-   
   - title: "English"
     url: https://yurinanakazato.github.io/
   
+  - title: "履歴書"
+    url: /cv/
+    
+  - title: "論文"
+    url: /publications/
+
+  - title: "研究発表"
+    url: /talks/    
+   
  # - title: "Leadership and others"
   #  url: /leadership/
     
