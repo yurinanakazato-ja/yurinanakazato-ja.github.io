@@ -8,15 +8,17 @@ main:
     
   - title: "CV"
     url: /cv/
+   
+  - title: "English"
+    url: https://yurinanakazato.github.io/
   
  # - title: "Leadership and others"
   #  url: /leadership/
     
-  - title: "zemi"
-    url: /zemi/    
+ # - title: "zemi"
+  #  url: /zemi/    
  
   #- title: "Personal"
   #  url: /personal/    
   
-   - title: "English"
-    url: https://yurinanakazato.github.io  
+   
