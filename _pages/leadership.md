@@ -22,6 +22,7 @@ Johnson & Johnson 主催の理系学部を専攻する女子学生を対象と�
 大学、名古屋大学)  
 - 2023.6: 東京大学新聞オンライン ([link](https://www.todaishimbun.org/insei_20230621/))  
 - 2023.5: 沖縄タイムス ([link](https://www.okinawatimes.co.jp/articles/-/1156585))
+- 2023.4: キミの東大 ([link](https://kimino.ct.u-tokyo.ac.jp/16029/))
 
 ## Research and International experience
 * 2020.6-2021.3: __[理学部学生国際派遣プログラム Study and Visit Abroad Program](https://www.s.u-tokyo.ac.jp/ja/offices/ilo/svap/application.html)__  
