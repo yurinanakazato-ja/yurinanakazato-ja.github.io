@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Leadership & Outreach
-- 2023.6: __Get-Together Event for Women in STEM__
+- 2023.6: __Get-Together Event for Women in STEM__  
   東京大学理学系研究科の女子学生・研究者の交流会を主催。
   
 - 2022.7: __[東大理学部で考える女子中高生の未来](https://www.s.u-tokyo.ac.jp/ja/event/7938/)__  
@@ -15,7 +15,13 @@ author_profile: true
 Johnson & Johnson 主催の理系学部を専攻する女子学生を対象としたワークショップに参加。  
 
 - 2019.10: __Research Presentation at Dow Chemical Company__  
-[TOMODACHI STEM Program](https://tomodachistem.rice.edu) の参加者代表として、[ダウケミカルジャパン](https://jp.dow.com/ja-jp)にてライス大学(テキサス州)での研究成果を発表。  
+[TOMODACHI STEM Program](https://tomodachistem.rice.edu) の参加者代表として、[ダウケミカルジャパン](https://jp.dow.com/ja-jp)にてライス大学(テキサス州)での研究成果を発表。
+
+## Media 
+- 2023.9: 最遠方の原始銀河団のプレスリリース ([Kavli IPMU](https://www.ipmu.jp/ja/20230920-Protocluster), 筑波大学, 早稲田
+大学、名古屋大学)  
+- 2023.6: 東京大学新聞オンライン ([link](https://www.todaishimbun.org/insei_20230621/))  
+- 2023.5: 沖縄タイムス ([link](https://www.okinawatimes.co.jp/articles/-/1156585))
 
 ## Research and International experience
 * 2020.6-2021.3: __[理学部学生国際派遣プログラム Study and Visit Abroad Program](https://www.s.u-tokyo.ac.jp/ja/offices/ilo/svap/application.html)__  
