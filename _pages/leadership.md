@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 ## Leadership & Outreach
+- 2023.6: __Get-Together Event for Women in STEM__
+  東京大学理学系研究科の女子学生・研究者の交流会を主催。
+  
 - 2022.7: __[東大理学部で考える女子中高生の未来](https://www.s.u-tokyo.ac.jp/ja/event/7938/)__  
 物理学専攻TAとして参加。  
 
