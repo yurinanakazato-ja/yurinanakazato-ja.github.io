@@ -32,7 +32,8 @@ redirect_from:
 <span style="font-size: 100%; color: #444444;">, Yoshida, N.
 2023, Accepted to The Astrophysical Journal Letters </span>  
 
-* __[Reionization and the ISM/Stellar Origins with JWST and ALMA (RIOJA): The core of the highest redshift galaxy overdensity at z=7.88 confirmed by NIRSpec/JWST](https://ui.adsabs.harvard.edu/abs/2023arXiv230504741H/abstract)__  Hashimoto, T. et al. (incl. Y.Nakazato)  
+* __[Reionization and the ISM/Stellar Origins with JWST and ALMA (RIOJA): The core of the highest redshift galaxy overdensity at z=7.88 confirmed by NIRSpec/JWST](https://ui.adsabs.harvard.edu/abs/2023arXiv230504741H/abstract)__  
+Hashimoto, T. et al. (incl. Y.Nakazato)  
  2023, The Astrophysical Journal Letters, 955, L2, 8
    
 * __["Detections of [C II] 158 μm and [O III] 88 μm in a Local Lyman Continuum Emitter, Mrk 54, and Its Implications to High-redshift ALMA Studies"](https://ui.adsabs.harvard.edu/abs/2023ApJ...948....3U/abstract)__  
@@ -41,9 +42,9 @@ redirect_from:
  
  
 * __["The Supersonic Project: The eccentricity and rotational support of SIGOs and DM GHOSts"](https://ui.adsabs.harvard.edu/abs/2022arXiv221102066W/abstract)__,  
-<span style="font-size: 65%; color: #444444;">Williams, C., E., Naoz, S., Lake, W., Chiou, Y., S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., </span>
-<span style="font-weight:bold;font-size: 65%; color: blue;"> Nakazato, Y. </span>
-<span style="font-size: 65%; color:#444444;">, Yoshida, N.
+<span style="font-size: 100%; color: #444444;">Williams, C., E., Naoz, S., Lake, W., Chiou, Y., S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., </span>
+<span style="font-weight:bold;font-size: 100%; color: blue;"> Nakazato, Y. </span>
+<span style="font-size: 100%; color:#444444;">, Yoshida, N.
 2023, The Astrophysical Journal, 945, 1 </span>
 
 * __["The Supersonic Project: The Early Evolutionary Path of SIGOs"](https://ui.adsabs.harvard.edu/abs/2022arXiv220805987L/abstract)__,  
