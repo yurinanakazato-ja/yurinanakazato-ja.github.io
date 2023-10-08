@@ -24,7 +24,7 @@ redirect_from:
 ### 共著 
 * __[A Photon Burst Clears the Earliest Dusty Galaxies: Modeling Dust in High-redshift Galaxies from ALMA to JWST](https://ui.adsabs.harvard.edu/abs/2023arXiv230902415T/abstract)__  
   Tsuna, D., Nakazato, Y., Hartwig, T.
-  2023, in ArXiv
+  2023, Accepted to Monthly Notices of the Royal Astronomical Society  
 
 * __[The Supersonic Project: Star Formation in Early Star Clusters without Dark Matter](https://ui.adsabs.harvard.edu/abs/2023arXiv230601047L/abstract)__  
   <span style="font-size: 100%; color: #444444;">Lake, W., Naoz, S., Marinacci, F., Burkhart, B., Vogelsberger, M., Williams, C., E.,  Chiou, Y., S., Chiaki, G., </span>
