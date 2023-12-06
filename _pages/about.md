@@ -20,6 +20,8 @@ redirect_from:
 yurina.nakazato_at_phys.s.u-tokyo.ac.jp (_at_を@に)
 
 ## 最近のニュース: 
+* 2023/11/21: 11月21日-12月22日までマドリード自治大学にて研究滞在をしています。  
+* 2023/11/07: 国際学会"Resolving the Extragalactic Universe with ALMA & JWST" で研究発表しました。  
 * 2023/09/22: 天文学会 秋季年会にて研究発表をしました。  
 * 2023/09/20: 最遠方の原始銀河団の発見がプレスリリースされました([link](https://www.ipmu.jp/ja/20230920-Protocluster))。シミュレーションによる理論的解釈を行いました。
 * 2023/08/12: 主著がThe Astrophysical Journal で出版されました。
