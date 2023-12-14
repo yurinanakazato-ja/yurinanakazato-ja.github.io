@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-pdf版は[ここ](https://yurinanakazato.github.io/files/CV_English_20231206.pdf)
+pdf版は[ここ](https://yurinanakazato.github.io/files/CV_English_20231214.pdf)
 
 
 ## 学歴
