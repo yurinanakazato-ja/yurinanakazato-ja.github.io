@@ -24,7 +24,12 @@ Johnson & Johnson 主催の理系学部を専攻する女子学生を対象と�
 - 2023.5: 沖縄タイムス ([link](https://www.okinawatimes.co.jp/articles/-/1156585))
 - 2023.4: キミの東大 ([link](https://kimino.ct.u-tokyo.ac.jp/16029/))
 
-## Research and International experience
+## Research and International experience  
+* 2023.11-2023.12: __Visiting Student at Universidad Autonoma de Madrid__
+    * マドリード自治大学にて[Daniel Ceverino](http://odin.ft.uam.es/Welcome.html)氏と共同研究を行った。
+* 2023.2-2023.3: __Visiting Student at UCLA__  
+    * カリフォルニア大学ロサンゼルス校の[Naoz 研](https://www.astro.ucla.edu/~snaoz/)にて共同研究を行った。
+    * [Collaboration meeting](https://www.astro.ucla.edu/~snaoz/TheSupersonicProject/Meeting2023.html)に参加、発表を行った。
 * 2020.6-2021.3: __[理学部学生国際派遣プログラム Study and Visit Abroad Program](https://www.s.u-tokyo.ac.jp/ja/offices/ilo/svap/application.html)__  
     * コロナウイルスの影響の為、オンラインでカリフォルニア大学ロサンゼルス校の [Naoz 研](https://www.astro.ucla.edu/~snaoz/)にて共同研究を行った。  
  
