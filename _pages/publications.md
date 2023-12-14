@@ -24,7 +24,7 @@ redirect_from:
 ### 共著  
 * __[The Supersonic Project: Lighting up the faint end of the JWST UV luminosity function](https://ui.adsabs.harvard.edu/abs/2023arXiv231003799W/abstract)__  
 C. E. Williams et al. (incl. Y.Nakazato)  
-2023, submitted to ApJL, arxiv:2310.03799  
+2023, accepted to ApJL, arxiv:2310.03799  
 
 * __[A Photon Burst Clears the Earliest Dusty Galaxies: Modeling Dust in High-redshift Galaxies from ALMA to JWST](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4801T/abstract)__  
 D. Tsuna, Y. Nakazato, T. Hartwig  
