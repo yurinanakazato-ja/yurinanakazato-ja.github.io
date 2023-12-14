@@ -66,9 +66,9 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 [51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/), online
 
 ## セミナー  
-2023.12: "", seminar talk, Centro de Astrobiología, (CAB, CSIC-INTA), Madrid  
+2023.12: "Chemical evolution and bursty star formation history of high-redshift galaxies from ALMA to JWST", seminar talk, Centro de Astrobiología, (CAB, CSIC-INTA), Madrid  
 
-2023.12: "", seminar talk, Universidad Autónoma de Madrid  
+2023.12: "Chemical and dynamical evolution of high-redshift [OIII] emitters in FirstLight simulation", seminar talk, Universidad Autónoma de Madrid  
 
 2023.8: "Modeling of Optical emission lines and recent JWST observations",[ One-day workshop on galaxies in the era of JWST/ALMA](http://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/highz.html), The University of Tokyo  
 
