@@ -8,23 +8,26 @@ redirect_from:
 ---
 
 ## 論文
-### 主著 
-* __["Simulations of high-redshift [OIII] emitters: Chemical evolution and multi-line diagnostics"](https://ui.adsabs.harvard.edu/abs/2023ApJ...953..140N/abstract)__,  
-  Nakazato, Y., Yoshida, N., Ceverino, D.  
-  2023, The Astrophysical Journal, 953, 2, 140  
+### 主著  
+* __[A merger-driven scenario for clumpy galaxy formation in the epoch of reionization: Physical properties of clumps in the FirstLight simulation](https://ui.adsabs.harvard.edu/abs/2024arXiv240208911N/abstract)__,  
+  Y. Nakazato, D. Ceverino, N.Yoshida  
+  2024, arXiv:2402.08911  
+ * __[Simulations of high-redshift [OIII] emitters: Chemical evolution and multi-line diagnostics](https://ui.adsabs.harvard.edu/abs/2023ApJ...953..140N/abstract)__,  
+  Y. Nakazato, N. Yoshida, D. Ceverino   
+  2023, The Astrophysical Journal, 953, 2
 
-* __["The formation of Supersonically Induced Gas Objects (SIGOs) with H2 cooling"](https://ui.adsabs.harvard.edu/abs/2023IAUS..362...45N/abstract)__  
-  Nakzato, Y., Chiaki, G., Yoshida, N., Naoz, S., Lake, W., Chiou, Y.    
+* __[The formation of Supersonically Induced Gas Objects (SIGOs) with H2 cooling](https://ui.adsabs.harvard.edu/abs/2023IAUS..362...45N/abstract)__  
+  Y. Nakazato, G. Chiaki, N. Yoshida, S. Naoz, W. Lake, Y. Chiou   
  2022, Proceedings of International Astronomical Union, Volume 362
  
-* __["H2 cooling and gravitational collapse of supersonically induced gas objects"](https://ui.adsabs.harvard.edu/abs/2022ApJ...927L..12N/abstract)__,  
- Nakzato, Y., Chiaki, G., Yoshida, N., Naoz, S., Lake, W., Chiou, Y.    
- 2022, The Astrophysical Journal Letters, 927, 1, L12
+* __[H2 cooling and gravitational collapse of supersonically induced gas objects](https://ui.adsabs.harvard.edu/abs/2022ApJ...927L..12N/abstract)__,  
+Y. Nakazato, G. Chiaki, N. Yoshida, S. Naoz, W. Lake, Y. Chiou     
+ 2022, The Astrophysical Journal Letters, 927, 1, L12  
  
 ### 共著  
 * __[The Supersonic Project: Lighting up the faint end of the JWST UV luminosity function](https://ui.adsabs.harvard.edu/abs/2023arXiv231003799W/abstract)__  
 C. E. Williams et al. (incl. Y.Nakazato)  
-2023, accepted to ApJL, arxiv:2310.03799  
+2023, The Astrophysical Journal Letters 960, 2, 16, 2024  
 
 * __[A Photon Burst Clears the Earliest Dusty Galaxies: Modeling Dust in High-redshift Galaxies from ALMA to JWST](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4801T/abstract)__  
 D. Tsuna, Y. Nakazato, T. Hartwig  
