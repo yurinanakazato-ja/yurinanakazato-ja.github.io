@@ -21,7 +21,7 @@ yurina.nakazato_at_phys.s.u-tokyo.ac.jp (_at_を@に)
 
 ## 最近のニュース: 
 * 2024/02/16: 国際学会 International Symposium on Quontum Electronicsでポスターアワードを受賞しました。  
-* 2024/01/26: 早期星団に関する共同研究がプレスリリースされました。([link](https://newsroom.ucla.edu/releases/dark-matter-reveal-bright-galaxies-beginning-of-time?preview=2528))  
+* 2024/01/26: 早期星団に関する共同研究がプレスリリースされました([link](https://newsroom.ucla.edu/releases/dark-matter-reveal-bright-galaxies-beginning-of-time?preview=2528))。  
 * 2023/11/21: 11月21日-12月22日までマドリード自治大学にて研究滞在をしています。  
 * 2023/11/07: 国際学会"Resolving the Extragalactic Universe with ALMA & JWST" で研究発表しました。  
 * 2023/09/22: 天文学会 秋季年会にて研究発表をしました。  
