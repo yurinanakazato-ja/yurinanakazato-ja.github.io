@@ -10,7 +10,7 @@ redirect_from:
 ## 論文
 ### 主著  
 * __[A merger-driven scenario for clumpy galaxy formation in the epoch of reionization: Physical properties of clumps in the FirstLight simulation](https://ui.adsabs.harvard.edu/abs/2024arXiv240208911N/abstract)__,  
-  Y. Nakazato, D. Ceverino, N.Yoshida  
+  Y. Nakazato, D. Ceverino, N. Yoshida  
   2024, arXiv:2402.08911  
  * __[Simulations of high-redshift [OIII] emitters: Chemical evolution and multi-line diagnostics](https://ui.adsabs.harvard.edu/abs/2023ApJ...953..140N/abstract)__,  
   Y. Nakazato, N. Yoshida, D. Ceverino   
