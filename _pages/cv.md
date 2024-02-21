@@ -21,11 +21,13 @@ pdf版は[ここ](https://yurinanakazato.github.io/files/CV_English_20231214.pdf
 * 2014年4月- 2017年3月 : 沖縄県 私立昭和薬科大学附属高校
 
 ## 職歴  
+* 2024年2月- 現在      : [Polaris AI](https://polarisai.co.jp)  
 * 2021年4月- 2021年8月 : 理学部物理学科 学部3,4年生 「流体力学」TA  
 * 2020年4月- 現在      : [多言語交流会 International Lounge](https://www.jlcse.t.u-tokyo.ac.jp/ja/activities/icyou/) ランゲージアシスタント (LA) 
 * 2018年10月- 2021年3月: [東大ネットアカデミー](https://tna-tokyo.com) 講師  
 
 ## 受賞歴  
+* 2024年2月           : 量子エレクトロニクス国際シンポジウム ([TSQS2024](https://tsqi.phys.s.u-tokyo.ac.jp/tsqi/en/)) ポスターアワード JSR賞  
 * 2023年4月- 2026年3月 : JSR フェローシップ CURIE生　([link](https://curie.phys.s.u-tokyo.ac.jp/fellowship/))  
 * 2023年4月- 2026年3月 : 日本学術振興会特別研究員 DC1  
 研究課題名: 多波長輝線観測と数値シミュレーションで解き明かす宇宙最初期の銀河進化 (領域番号:23KJ0728, [link](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23KJ0728/))  
