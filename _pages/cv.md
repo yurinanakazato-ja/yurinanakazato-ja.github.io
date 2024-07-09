@@ -21,7 +21,7 @@ pdf版は[ここ](https://yurinanakazato.github.io/files/CV_English_20240221.pdf
 * 2014年4月- 2017年3月 : 沖縄県 私立昭和薬科大学附属高校
 
 ## 職歴  
-* 2024年2月- 現在      : [Polaris AI](https://polarisai.co.jp)  
+* 2024年2月- 2024年3月 : [Polaris AI](https://polarisai.co.jp)  
 * 2021年4月- 2021年8月 : 理学部物理学科 学部3,4年生 「流体力学」TA  
 * 2020年4月- 現在      : [多言語交流会 International Lounge](https://www.jlcse.t.u-tokyo.ac.jp/ja/activities/icyou/) ランゲージアシスタント (LA) 
 * 2018年10月- 2021年3月: [東大ネットアカデミー](https://tna-tokyo.com) 講師  
