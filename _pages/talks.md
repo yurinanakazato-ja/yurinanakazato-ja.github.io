@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 ## 国際学会  
+2024.08: "A merger-driven scenario for clumpy galaxy formation in the epoch of reionization: Physical properties of clumps in the FirstLight simulation", [IAUS391](https://jadc.swin.edu.au/#IAUS391), Cape Town, South Africa  
+
+2024.07: "FirstLight zoom-in simulations: Formation mechanism of [OIII]-bright clumps in high-redshift galaxies from z=6-9", [European Astronomical Society Annual meeting 2024](https://eas.unige.ch/EAS2024/), Padova, Italy  
+
 2024.02: "Formation and evolution of galaxies in the early Universe by 3D hydrodynamical simulation",  Poster,  
 [Internatioinal Symposium on Quantum Electronics](https://www.tsqs2024.org), The University of Tokyo  
 
@@ -69,6 +73,10 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 [51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/), online
 
 ## セミナー  
+2024.07: "Galaxy formation and evolution in the early universe using numerical simulations", seminar talk, JSR corporation, Online  
+
+2024.04: "Physical properties and Inner structures of high-redshift galaxies (z > 6) using zoom-in simulations",  seminar talk, Scuola Normale Superiore, Italy   
+
 2023.12: "Chemical evolution and bursty star formation history of high-redshift galaxies from ALMA to JWST", seminar talk, Centro de Astrobiología, (CAB, CSIC-INTA), Madrid  
 
 2023.12: "Chemical and dynamical evolution of high-redshift [OIII] emitters in FirstLight simulation", seminar talk, Universidad Autónoma de Madrid  
