@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 ## 国際学会  
+2024.09: "Radiative-driven dusty outflow in compact high-z galaxies",  
+[ILR workshop 2024 @Osaka: From Galaxy Formation to Supermassive Black Holes](https://sites.google.com/view/ilr-ws-2024/home), Osaka, Japan  
+
 2024.08: "A merger-driven scenario for clumpy galaxy formation in the epoch of reionization: Physical properties of clumps in the FirstLight simulation", [IAUS391](https://jadc.swin.edu.au/#IAUS391), Cape Town, South Africa  
 
 2024.07: "FirstLight zoom-in simulations: Formation mechanism of [OIII]-bright clumps in high-redshift galaxies from z=6-9", [European Astronomical Society Annual meeting 2024](https://eas.unige.ch/EAS2024/), Padova, Italy  
@@ -41,6 +44,9 @@ Resceu Summer School 2022, online
 Resceu Summer School 2021, online
 
 ## 国内学会  
+2024.9: "Radiative-driven dusty outflow by compact z > 10 galaxies", 
+ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2024, Kwansei Gakuin University, Hyogo  
+
 2023.9: "Formation of clumpy galaxies during the Epoch of Reionization in zoom-in simulations",  
 ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2023, Nagoya University, Aichi  
 
@@ -73,6 +79,8 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 [51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/), online
 
 ## セミナー  
+2024.08: "Overview of galaxy formation simulations and a review of latest studies on high-z galaxies", seminar talk, ELPIS+JWST Hack Days 2024, Yamanashi, Japan  
+
 2024.07: "Galaxy formation and evolution in the early universe using numerical simulations", seminar talk, JSR corporation, Online  
 
 2024.04: "Physical properties and Inner structures of high-redshift galaxies (z > 6) using zoom-in simulations",  seminar talk, Scuola Normale Superiore, Italy   
