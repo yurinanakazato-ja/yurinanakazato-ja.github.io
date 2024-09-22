@@ -13,7 +13,8 @@ The publication list created in NASA/ADS is [here](https://ui.adsabs.harvard.edu
 ### 主著  
 * __[A merger-driven scenario for clumpy galaxy formation in the epoch of reionization: Physical properties of clumps in the FirstLight simulation](https://ui.adsabs.harvard.edu/abs/2024arXiv240208911N/abstract)__,  
   Y. Nakazato, D. Ceverino, N. Yoshida  
-  2024, arXiv:2402.08911  
+  2024, arXiv:2402.08911, accepted to ApJ
+  
  * __[Simulations of high-redshift [OIII] emitters: Chemical evolution and multi-line diagnostics](https://ui.adsabs.harvard.edu/abs/2023ApJ...953..140N/abstract)__,  
   Y. Nakazato, N. Yoshida, D. Ceverino   
   2023, The Astrophysical Journal, 953, 2
@@ -27,9 +28,16 @@ Y. Nakazato, G. Chiaki, N. Yoshida, S. Naoz, W. Lake, Y. Chiou
  2022, The Astrophysical Journal Letters, 927, 1, L12  
  
 ### 共著  
+* __[JWST PRIMER: A lack of outshining in four normal z =4-6 galaxies from the ALMA-CRISTAL Survey](https://ui.adsabs.harvard.edu/abs/2024arXiv240910963L/abstract)__,  
+N. Lines et al. (incl. Y. Nakazato)
+2024, arXiv: 2409.10963  
+* __[Detection of the [OI]63 um emission line from the z=6.04 quasar J2054-0005](https://ui.adsabs.harvard.edu/abs/2024arXiv240809944I/abstract)__,  
+N. Ishii et al. (incl. Y.Nakazato)
+2024, arXiv:2408.09944  
 * __[JWST, ALMA, and Keck Spectroscopic Constraints on the UV Luminosity Functions at z~7-14: Clumpiness and Compactness of the Brightest Galaxies in the Early Universe](https://ui.adsabs.harvard.edu/abs/2024arXiv240618352H/abstract)__,  
-Y. Harikane, A. K. Inoue, E. Richard, M. Ouchi, Y. Nakazato, N. Yoshida et al.  
-2024, arXiv:2406.18352  
+Y. Harikane, A. K. Inoue, R.Ellis, M. Ouchi, Y. Nakazato, N. Yoshida et al.
+2024, arXiv:2406.18352
+  
 * __[Redshift-dependent galaxy formation efficiency at z=5-13 in the FirstLight simulations](https://ui.adsabs.harvard.edu/abs/2024arXiv240402537C/abstract)__,  
 D. Ceverino, Y. Nakazato, N. Yoshida, R. Klessen, S. Glover  
 2024, accepted to A&A  
